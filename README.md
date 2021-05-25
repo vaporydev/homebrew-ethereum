@@ -1,7 +1,7 @@
-homebrew-ethereum
+homebrew-vapory
 =================
 
-Homebrew Tap for Ethereum
+Homebrew Tap for Vapory
 
 **Important note: reporting issues with any of these brews should be done at their respective repositories ([Go client](https://github.com/ethereum/go-ethereum) and [Solidity](https://github.com/ethereum/solidity)).**
 
